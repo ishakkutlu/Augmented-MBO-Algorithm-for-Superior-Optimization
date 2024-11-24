@@ -1,6 +1,6 @@
 # Boosted Performance of Resolution's the 0-1 Knapsack Problem by Augmented MBO Algorithm
 
-Implemented and optimized the Migrating Birds Optimization (MBO) algorithm in Python to address the 0-1 Knapsack Problem, a classic combinatorial optimization challenge. This project achieved significant improvements in solution quality and computation time through advanced simulations and performance analysis.
+Implemented and optimized the Migrating Birds Optimization (MBO) algorithm in Python to address the 0-1 Knapsack Problem, a classic combinatorial optimization challenge. This project achieved significant improvements in solution quality and computation time through advanced simulations and performance analysis. 
 
 ## Key Highlights:
 
